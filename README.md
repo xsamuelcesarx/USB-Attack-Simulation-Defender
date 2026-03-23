@@ -23,4 +23,5 @@ Linkedln: #www.linkedin.com/in/samuel-cesar-9100261a5
 Microsoft SC-200 In Progress
 
 In this walkthrough, I will demonstrate the risks of BadUSB attacks in real scenarios, show how dangerous they can be, and explain best practices to mitigate them. While BadUSB is an older technique, it can still bypass some Defender detections. Using cloud-based solutions is recommended to minimize the risks of physical USB attacks.
+
 I will use a DOCX file to document the process, including real screenshots.
